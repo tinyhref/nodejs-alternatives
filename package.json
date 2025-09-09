@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-alternatives",
+  "version": "0.0.0",
+  "description": "A curated collection of the best alternatives to NodeJS from tinyhref.com",
+  "keywords": [
+    "nodejs-alternatives",
+    "alternative",
+    "awesome",
+    "lists",
+    "tinyhref",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "tinyhref.com",
+    "website": "https://tinyhref.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tinyhref/nodejs-alternatives"
+  }
+}
